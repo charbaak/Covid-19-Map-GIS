@@ -1,0 +1,1 @@
+http://geodash.gov.bd:80/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Adhaka_metropolitan_area_wasa_jurisdiction&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&access_token=7736b14bfdad11ea9cca286ed488c993&srsName=EPSG%3A4326

@@ -1,0 +1,14 @@
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\Bunifu_UI_v1.52.dll
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\Interop.MapWinGIS.dll
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\AxInterop.MapWinGIS.dll
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.MapWinGIS.dll
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AxInterop.MapWinGIS.dll
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Covid_traker_map.csproj.ResolveComReference.cache
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Covid_traker_map.csproj.GenerateResource.Cache
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\dip82\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
